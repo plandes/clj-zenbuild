@@ -1,16 +1,13 @@
 Clojure Build Utility
 =====================
 
-This package has tools, configuration files and utilities for building,
-installing and deploying Clojure projects.
-
-For an example see the
-[NLP parse project](https://github.com/plandes/clj-nlp-parse).
+**Important**: This repo is now deprecated.  Please use the [more generalized
+zenbuild] repository instead.
 
 
 License
 --------
-Copyright © 2016 Paul Landes
+Copyright © 2016-2017 Paul Landes
 
 Apache License version 2.0
 
@@ -25,3 +22,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+[more generalized zenbuild]: https://github.com/plandes/zenbuild
