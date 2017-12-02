@@ -1,7 +1,7 @@
 Clojure Build Utility
 =====================
 
-**Important**: This repo is now deprecated.  Please use the [more generalized
+**Important**: This repo is now *deprecated*.  Please use the [more generalized
 zenbuild] repository instead.
 
 
